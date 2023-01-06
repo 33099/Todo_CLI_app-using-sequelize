@@ -3,27 +3,8 @@
 
 1) listTodos.js
 
-  When running this program from the command line, it should print to-dos from the database in the following format:
+  When running this program from the command line, it should print to-dos from the database.
 
-  My Todo-list
-
-  Overdue
-  
-  24. [ ] Submit assignment 2022-07-10
-
-
-  Due Today
-  
-  25. [x] Pay rent
-
-  28. [ ] Service vehicle
-
-  
-  Due Later
-  
-  26. [ ] File taxes 2022-07-14
- 
-  28. [ ] Call Acme Corp. 2022-07-14
 
 2) addTodo.js
 
